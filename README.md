@@ -2,17 +2,20 @@
 this  is my first AI & ML project
 <<<<<<< HEAD
 
-💰 Full Stack Expense Tracker
-A modern Full Stack Expense Tracker application built using React, Node.js, Express, and MongoDB Atlas.
+💰 [AI] Text cleaner & sentiment tagger
+Project Overview
+AI Text Cleaner & sentiment tagger is a Natural language processing (NLP) project that cleans user feedback text and automatically identifies whether the sentiment is positive or nagative. the project helps organizers quickly understand audience opinions without manually reading every comment.
 
-The application helps users manage their income and expenses, track financial activities, analyze spending patterns through charts, and maintain a clear overview of their finances.
+Problem Statement
+After events,worksshops,or community activities, feedback id often collected as free-text comments.Reading and analyzing hundreds of comments manually is time-consuming.this project automates the process by cleaning text and performing sentiment analysis to provide instant insights.
 
-🚀 Features
-Add Income and Expense Transactions
-Edit Existing Transactions
-Delete Transactions
-Real-Time Balance Calculation
-Income & Expense Summary Cards
-Expense Analytics Pie Chart
-Search Transactions
-Filter by Category
+Features
+* Read feedback data from a CSV file
+* Convert text to lowercase
+* Remove punctuation and unwanted characters
+* Remove common stop words
+* Perform AI-based sentiment analysis
+* Classify comments as Positive or Negative
+* Generate sentiment summary statistics
+* Visualize results using bar charts
+

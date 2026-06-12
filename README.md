@@ -122,7 +122,7 @@ python main.py
 ```
 The prograam will:
 
-   1.REAd feedback from csv.
+   1.Read feedback from csv.
 
    2.clean the text.
 

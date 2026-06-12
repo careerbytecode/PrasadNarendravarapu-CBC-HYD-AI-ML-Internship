@@ -2,7 +2,7 @@
 **This  is my first AI & ML project**
 
 
-### <<<<<<< HEAD
+
 
  # 🧹 [AI] Text cleaner & Sentiment Tagger
  
@@ -144,10 +144,11 @@ Negative Feedback: 2
 ```
 
 ## **📊Expected Visualization**
-```
-## 📸 Output Screenshot
-![sentiment Analysis Result]()
-```
+
+| Output Screenshot |![Sentiment Analysis Result]() |
+|-------------------|-------------------------------|
+
+
 
 ## **🧠Learning Outcomes**
   Through this project,i learned:

@@ -10,11 +10,11 @@
  
 ## **📌 Project Overview**
 
-AI Text Cleaner & sentiment tagger is a Natural language processing (NLP) project that cleans user feedback text and automatically identifies whether the sentiment is positive or nagative. the project helps organizers quickly understand audience opinions without manually reading every comment.
+AI Text Cleaner & sentiment tagger is a Natural language processing (NLP) project that cleans user feedback text and automatically identifies whether the sentiment is positive or negative.The project helps organizers quickly understand audience opinions without manually reading every comment.
 
  ## **🎯 Problem Statement**
 
-After events,worksshops,or community activities, feedback id often collected as free-text comments.Reading and analyzing hundreds of comments manually is time-consuming.this project automates the process by cleaning text and performing sentiment analysis to provide instant insights.
+After events,worksshops,or community activities, feedback id often collected as free-text comments.Reading and analyzing hundreds of comments manually is time-consuming.This project automates the process by cleaning text and performing sentiment analysis to provide instant insights.
     this project automates the process by:
     * Cleaning text data
     * Removing unnecassary words and symbols

@@ -15,29 +15,33 @@ AI Text Cleaner & sentiment tagger is a Natural language processing (NLP) projec
  ## **🎯 Problem Statement**
 
 After events,worksshops,or community activities, feedback id often collected as free-text comments.Reading and analyzing hundreds of comments manually is time-consuming.This project automates the process by cleaning text and performing sentiment analysis to provide instant insights.
-    this project automates the process by:
-    * Cleaning text data
-    * Removing unnecassary words and symbols
-    * Identifying sentiment
-    * Genereting summaries and visualizations
+
+    This project automates the process by:
+    
+    1.Cleaning text data
+    2.Removing unnecassary words and symbols
+    3.Identifying sentiment
+    4.Genereting summaries and visualization
+    
 
  ## **✨ Features**
 
-  📂 Read feedback data from CSV files
-  
-  🧹 Convert text to lowercase
-  
-  🔍 Remove punctuation and special characters
-  
-  📝 Remove stop words
-  
-  🤖 Perform AI-based sentiment analysis
-  
-  📊 Generate sentiment statistics
-  
-  📈 Visualize positive and negative feedback
-  
-  ⚡ Fast and easy to use
+
+📂 Read feedback data from CSV files
+
+🧹 Convert text to lowercase
+
+🔍 Remove punctuation and special characters
+
+📝 Remove stop words
+
+🤖 Perform AI-based sentiment analysis
+
+📊 Generate sentiment statistics
+
+📈 Visualize positive and negative feedback
+
+⚡ Fast and easy to use
 
   
 
@@ -92,11 +96,12 @@ AI-Text-Cleaner-Sentiment-Tagger
 
 ### clone the repository
 ```
-git clone https://github.com/prasadnarendravarapu-oss/AI-Text-Cleaner-Sentiment-Tagger.git
+git clone (https://github.com/prasadnarendravarapu-oss/AI-Text-Cleaner-Sentiment-Tagger.git)
 
  ```
 
 ### Navigate to the project directory
+
 ```
 cd AI-Text-Cleaner-Sentiment-Tagger
 ```

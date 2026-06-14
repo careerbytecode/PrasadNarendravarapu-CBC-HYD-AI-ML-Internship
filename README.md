@@ -102,29 +102,42 @@ git clone (https://github.com/prasadnarendravarapu-oss/AI-Text-Cleaner-Sentiment
 
 ### Navigate to the project directory
 
-```
+```git
 cd AI-Text-Cleaner-Sentiment-Tagger
 ```
 
 ### Install required Dependencies
-```
+```python
 pip install pandas transformers torch matplotlib
 ```
 
 ### verify Installation
-```
+```python
 pip list
 ```
 
-### Run the project
-```
+
+## **▶️ Run the Project**
+```python
 python main.py
 ```
 
-## **▶️ Run the Project**
+## 📊**Bar chart**
+
+```python
+</>python
+
+import matplotlib.pyplot as plt
+
+labels = ["Positive", "Negative"]
+counts = [positive_count, negative_count]
+
+plt.bar(labels, counts, color=["green", "red"])
+plt.title("Feedback Sentiment")
+plt.ylabel("Number of Comments")
+plt.show()
 ```
-python main.py
-```
+
 The prograam will:
 
    1.Read feedback from csv.
